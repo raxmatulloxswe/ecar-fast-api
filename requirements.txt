@@ -1,0 +1,5 @@
+SQLAlchemy~=2.0.40
+pip~=24.0
+greenlet~=3.2.2
+psycopg2-binary~=2.9.10
+typing_extensions~=4.13.2
